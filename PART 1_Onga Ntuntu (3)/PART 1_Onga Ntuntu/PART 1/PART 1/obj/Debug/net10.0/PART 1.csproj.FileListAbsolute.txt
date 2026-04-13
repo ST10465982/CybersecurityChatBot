@@ -1,0 +1,36 @@
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\bin\Debug\net10.0\PART 1.exe
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\bin\Debug\net10.0\PART 1.deps.json
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\bin\Debug\net10.0\PART 1.runtimeconfig.json
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\bin\Debug\net10.0\PART 1.dll
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\bin\Debug\net10.0\PART 1.pdb
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\bin\Debug\net10.0\System.Speech.dll
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Speech.dll
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\obj\Debug\net10.0\PART 1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\obj\Debug\net10.0\PART 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\obj\Debug\net10.0\PART 1.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\obj\Debug\net10.0\PART 1.AssemblyInfo.cs
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\obj\Debug\net10.0\PART 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\obj\Debug\net10.0\PART 1.csproj.Up2Date
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\obj\Debug\net10.0\PART 1.dll
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\obj\Debug\net10.0\refint\PART 1.dll
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\obj\Debug\net10.0\PART 1.pdb
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\obj\Debug\net10.0\PART 1.genruntimeconfig.cache
+C:\Users\Admin\Downloads\PART 1\PART 1\PART 1\obj\Debug\net10.0\ref\PART 1.dll
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\bin\Debug\net10.0\PART 1.exe
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\bin\Debug\net10.0\PART 1.deps.json
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\bin\Debug\net10.0\PART 1.runtimeconfig.json
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\bin\Debug\net10.0\PART 1.dll
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\bin\Debug\net10.0\PART 1.pdb
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\bin\Debug\net10.0\System.Speech.dll
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Speech.dll
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\obj\Debug\net10.0\PART 1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\obj\Debug\net10.0\PART 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\obj\Debug\net10.0\PART 1.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\obj\Debug\net10.0\PART 1.AssemblyInfo.cs
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\obj\Debug\net10.0\PART 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\obj\Debug\net10.0\PART 1.csproj.Up2Date
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\obj\Debug\net10.0\PART 1.dll
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\obj\Debug\net10.0\refint\PART 1.dll
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\obj\Debug\net10.0\PART 1.pdb
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\obj\Debug\net10.0\PART 1.genruntimeconfig.cache
+C:\Users\Admin\Downloads\PART 1_Onga Ntuntu\PART 1\PART 1\obj\Debug\net10.0\ref\PART 1.dll
