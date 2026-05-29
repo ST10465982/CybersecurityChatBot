@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\CyberSecurityAwarenessBotGUI2\CyberSecurityAwarenessBotGUI2\obj\Debug\CyberSecurityAwarenessBotGUI2.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\CyberSecurityAwarenessBotGUI2\CyberSecurityAwarenessBotGUI2\obj\Debug\CyberSecurityAwarenessBotGUI2.Properties.Resources.resources
+C:\Users\Student\source\repos\CyberSecurityAwarenessBotGUI2\CyberSecurityAwarenessBotGUI2\obj\Debug\CyberSecurityAwarenessBotGUI2.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\CyberSecurityAwarenessBotGUI2\CyberSecurityAwarenessBotGUI2\obj\Debug\CyberSecurityAwarenessBotGUI2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CyberSecurityAwarenessBotGUI2\CyberSecurityAwarenessBotGUI2\bin\Debug\CyberSecurityAwarenessBotGUI2.exe.config
+C:\Users\Student\source\repos\CyberSecurityAwarenessBotGUI2\CyberSecurityAwarenessBotGUI2\bin\Debug\CyberSecurityAwarenessBotGUI2.exe
+C:\Users\Student\source\repos\CyberSecurityAwarenessBotGUI2\CyberSecurityAwarenessBotGUI2\bin\Debug\CyberSecurityAwarenessBotGUI2.pdb
+C:\Users\Student\source\repos\CyberSecurityAwarenessBotGUI2\CyberSecurityAwarenessBotGUI2\obj\Debug\CyberSecurityAwarenessBotGUI2.exe
+C:\Users\Student\source\repos\CyberSecurityAwarenessBotGUI2\CyberSecurityAwarenessBotGUI2\obj\Debug\CyberSecurityAwarenessBotGUI2.pdb
+C:\Users\Student\source\repos\CyberSecurityAwarenessBotGUI2\CyberSecurityAwarenessBotGUI2\obj\Debug\CyberSecurityAwarenessBotGUI2.exe.config
